@@ -1,0 +1,28 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local tooling
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+
+# Generated experiment outputs
+*.log
+*.csv
+*.png
+*.txt
+combined_pareto_*
+maxdeg*_maxerr*_funcs*_results/
+maxdeg*_maxerr*_funcs*_results_eval/
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the Uni-SFU paper."
+title: "Uni-SFU: Algorithm-HW Co-Design for Universal SFUs"
+abstract: >-
+  Reference implementation of the mixed-degree piecewise approximation and
+  joint hardware-area optimization algorithms described in the Uni-SFU paper.
+type: software
+authors:
+  - family-names: Sun
+    given-names: Miao
+  - family-names: Huang
+    given-names: Yucheng
+  - family-names: Cao
+    given-names: Mingcong
+  - family-names: Park
+    given-names: Jaehyun
+  - family-names: Pande
+    given-names: Partha Pratim
+  - family-names: Ogras
+    given-names: Umit Y.
+version: 1.0.0
+date-released: 2026-08-30
+repository-code: "https://github.com/YuchengHuang313/Uni-SFU"
+url: "https://github.com/YuchengHuang313/Uni-SFU"
+license: MIT
+identifiers:
+  - type: doi
+    value: "10.48550/arXiv.2608.11577"
+    description: "DOI for the public arXiv manuscript"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Sun
+      given-names: Miao
+    - family-names: Huang
+      given-names: Yucheng
+    - family-names: Cao
+      given-names: Mingcong
+    - family-names: Park
+      given-names: Jaehyun
+    - family-names: Pande
+      given-names: Partha Pratim
+    - family-names: Ogras
+      given-names: Umit Y.
+  title: "Uni-SFU: Algorithm-HW Co-Design for Universal SFUs via Mixed-Degree Piecewise Approximation"
+  year: 2026
+  collection-title: "2026 IEEE/ACM International Conference on Codesign of Embedded Systems (CODES)"
+  conference:
+    name: "CODES 2026, Embedded Systems Week (ESWEEK 2026)"
+    date-start: 2026-10-04
+    date-end: 2026-10-09
+    location: "Barcelona, Spain"
+  doi: "10.48550/arXiv.2608.11577"
+  url: "https://arxiv.org/abs/2608.11577"
